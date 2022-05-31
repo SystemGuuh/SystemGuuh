@@ -35,7 +35,6 @@ Atitude Positva | ✔️
 Liderança    | ✔️
 Trabalho em equipe | ✔️
 Gestão de tempo | 🛠️
-Autoconfiança | 🛠️
   
 </div>
 
