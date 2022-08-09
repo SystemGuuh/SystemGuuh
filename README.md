@@ -1,6 +1,11 @@
 
 <div>
     <center><h1 text="blue">⚡Oi, eu sou o Guuh!⚡</h1></center>
+
+<div align="center">  
+  <a href="https://github.com/SystemGuuh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SystemGuuh&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+ 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,12 +16,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-<div align="center">  
-  <a href="https://github.com/SystemGuuh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SystemGuuh&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
- 
-
+      
 </div>
 
   ##
