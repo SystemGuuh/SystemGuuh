@@ -1,5 +1,5 @@
 <div>
-    <h1>Oi, eu sou o Guuh!</h1>
+     <img src="https://i.imgur.com/hVxTWfP.png" alt="octocat com cabelo branco, usando uma blusa branca, calça preta, allstar no pé e uma galáxia na mão" width="1080">
     <h3 align="center">Bacharelado em Sistemas de Informação</h3>
 </div>
 
@@ -36,6 +36,6 @@
 </div>
 
 <!-- Octocat feio -->
- <img src="https://i.imgur.com/Ih664Gc.png" alt="octocat com cabelo branco, usando uma blusa branca, calça preta, allstar no pé e uma galáxia na mão" width="200">
+<img src="https://i.imgur.com/Ih664Gc.png" alt="octocat com cabelo branco, usando uma blusa branca, calça preta, allstar no pé e uma galáxia na mão" width="200">
 
 
